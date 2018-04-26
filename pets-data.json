@@ -14,7 +14,7 @@
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
-      "name" : "Meowsalot",
+      "name" : "Meowsalot123",
       "species" : "Cat",
       "favFoods" : ["tuna", "catnip", "celery"],
       "birthYear" : 2012,
