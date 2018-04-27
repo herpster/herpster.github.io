@@ -8,7 +8,7 @@
         {
         "name" : "Menu",
         "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
-        "img" : "http://via.placeholder.com/80x80"
+        "img" : "./img/simulia.png"
         },
         {
         "name" : "Menu",
