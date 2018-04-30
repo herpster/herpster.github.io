@@ -1,16 +1,19 @@
 {
     "items": [
         {
+        "title": "Title 1",
         "name" : "Menu",
         "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
         "img" : "http://via.placeholder.com/80x80"
         },
         {
+        "title": "Title 2",
         "name" : "Menu",
         "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
         "img" : "./img/simulia.png"
         },
         {
+        "title": "Title 3",
         "name" : "Menu",
         "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
         "img" : "http://via.placeholder.com/80x80"
