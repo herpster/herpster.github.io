@@ -7,13 +7,16 @@
         "img" : "http://via.placeholder.com/80x80"
         },
         {
-        "title": "Title 2",
+        "title": "Simulia",
+        "name" : "Menu",
+        "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+        "img" : "https://foundyou.de/src/simulia.png",
         "name" : "Menu",
         "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
         "img" : "https://foundyou.de/src/simulia.png"
         },
         {
-        "title": "Title 3",
+        "title": "Javascript",
         "name" : "Menu",
         "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
         "img" : "http://via.placeholder.com/80x80"
