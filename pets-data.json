@@ -10,7 +10,7 @@
         "title": "Title 2",
         "name" : "Menu",
         "url" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
-        "img" : "file://./img/simulia.png"
+        "img" : "https://foundyou.de/src/simulia.png"
         },
         {
         "title": "Title 3",
